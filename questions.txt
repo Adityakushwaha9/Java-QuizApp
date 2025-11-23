@@ -1,0 +1,42 @@
+What is my name?
+aa
+bb
+cc
+noob
+4
+What is capital of France?
+London
+Paris
+Berlin
+Rome
+2
+Which programming language does this quiz written in?
+JAVA
+C++
+PYTHON
+JAVASCRIPT
+1
+What is the largest planet in out solar system?
+Earth
+Mars
+Jupiter
+Saturn
+3
+Which company created java?
+Microsoft
+Apple
+Sun MicroSystem
+Google
+3
+What is 2+2?
+3
+4
+3
+6
+2
+what is 4-4?
+1
+3
+6
+0
+4

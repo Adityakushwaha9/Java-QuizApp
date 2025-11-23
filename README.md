@@ -42,5 +42,6 @@ A feature-rich, console-based quiz application built with Java that demonstrates
 ### Installation & Running
 1. *Clone the repository*
    ```bash
-   git clone https://github.com/Adityakushwaha9/java-quizapp.git
-   cd java-quizapp
+   git clone https://github.com/Adityakushwaha9/Java-QuizApp.git
+
+   cd Java-QuizApp
